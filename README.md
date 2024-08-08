@@ -2,7 +2,7 @@
 <h2>Description</h2>
 This fun and straightforward home lab setup uses VirtualBox to create a virtual network environment featuring Windows Server 2019 and Windows 10. The lab focuses on Active Directory Domain Services (AD DS) setup, including configuring NAT for internet access, a single DHCP scope for IP management, and leveraging PowerShell for creating 1000 users. It's a hands-on project to learn and practice AD concepts in a controlled, home-based environment.
 
-(Currently being worked on, full instructions can be found on the PDF file given in this Repository)
+For the FULL instruction guide on how I setup this Active Directory, you can view the PDF in the repository.
 <br />
 
 
